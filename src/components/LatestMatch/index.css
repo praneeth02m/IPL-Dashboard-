@@ -1,0 +1,17 @@
+.latest-match-container {
+  background-color: #0f172a;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  padding: 20px;
+}
+.comp-img {
+  width: 120px;
+  height: 125px;
+}
+.second-part {
+  text-align: end;
+}

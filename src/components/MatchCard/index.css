@@ -1,0 +1,15 @@
+.card-container {
+  width: 220px;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  background-color: #0f172a;
+  padding: 10px;
+  align-items: center;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  border-radius: 10px;
+}
+.card-img {
+  width: 60px;
+}
